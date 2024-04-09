@@ -17,7 +17,7 @@
               style="text-decoration: none"
               target="_blank"
               href="https://gitee.com/huang-zhaoyang-zff/zffshortlink"
-              >🔥gitee</a
+              >🔥醉芬芳</a
             >
             <a
                 class="link-span"
@@ -30,8 +30,8 @@
                 class="link-span"
                 style="text-decoration: none"
                 target="_blank"
-                href="https://space.bilibili.com/258170412?spm_id_from=333.337.0.0"
-            >醉芬芳</a
+                href="https://bilibili.com"
+            >B站</a
             >
             <el-dropdown>
               <div class="block">
