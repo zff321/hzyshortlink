@@ -3,35 +3,35 @@
     <el-container>
       <el-header height="54px" style="padding: 0">
         <div class="header">
-          <div @click="toMySpace" class="logo">拿个offer-SaaS短链接@马丁</div>
+          <div @click="toMySpace" class="logo">醉芬芳短链接</div>
           <div style="display: flex; align-items: center">
             <a
               class="link-span"
               style="text-decoration: none"
               target="_blank"
-              href="https://nageoffer.com/shortlink/"
-              >官方文档</a
+              href="https://www.baidu.com/"
+              >百度</a
             >
             <a
               class="link-span"
               style="text-decoration: none"
               target="_blank"
-              href="https://nageoffer.com/group/"
-              >加沟通群</a
+              href="https://gitee.com/huang-zhaoyang-zff/zffshortlink"
+              >🔥gitee</a
             >
             <a
                 class="link-span"
                 style="text-decoration: none"
                 target="_blank"
-                href="https://nageoffer.com/shortlink/video/"
-            >🔥视频教程</a
+                href="https://chat.openai.com/"
+            >chatGPT</a
             >
             <a
                 class="link-span"
                 style="text-decoration: none"
                 target="_blank"
-                href="http://shortlink.magestack.cn"
-            >演示环境</a
+                href="https://space.bilibili.com/258170412?spm_id_from=333.337.0.0"
+            >醉芬芳</a
             >
             <el-dropdown>
               <div class="block">
