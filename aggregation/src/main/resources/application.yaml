@@ -31,13 +31,13 @@ short-link:
     time-window: 1
     max-access-count: 20
   domain:
-    default: nurl.ink:8003
+    default: z.ink:8003
   stats:
     locale:
       amap-key: 824c511f0997586ea016f979fdb23087
   goto-domain:
     white-list:
-      enable: true
+      enable: false
       names: '拿个offer,知乎,掘金,博客园'
       details:
         - nageoffer.com
